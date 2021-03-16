@@ -11,7 +11,8 @@ redirect_from:
 Hi! I'm Minje (pronounced "Min-jé" as in "jet"), a Ph.D candidate in my third year at the [University of Michigan School of Information](https://www.si.umich.edu/) where I am co-advised by professors [David Jurgens](http://jurgens.people.si.umich.edu/) and [Daniel Romero](http://www.dromero.org/).
 I am broadly interested in computational social sciences, and my current research involves using natural language processing and other data-driven approaches to study information diffusion and communication in social networks such as SNS platforms and online communities.
 
-Right before my Ph.D, I did my undergrad and masters in computer science at Korea University where I was advised by professor [Jaegul Choo](https://sites.google.com/site/jaegulchoo/) 
+Right before my Ph.D, I did my undergrad and masters in computer science at Korea University where I was advised by professor [Jaegul Choo](https://sites.google.com/site/jaegulchoo/). 
+I have done past internships with awesome collaborators at [Naver Clova AI](https://clova.ai/en/research/research-areas.html) and [Nokia Bell Labs Cambridge](https://social-dynamics.net/).
 
 Personal updates
 ======
