@@ -12,7 +12,10 @@ Hi! I'm Minje (pronounced "Min-jé" as in "jet"), a Ph.D candidate in my third y
 I am broadly interested in computational social sciences, and my current research involves using natural language processing and other data-driven approaches to study information diffusion and communication in social networks such as SNS platforms and online communities.
 
 Right before my Ph.D, I did my undergrad and masters in computer science at Korea University where I was advised by professor [Jaegul Choo](https://sites.google.com/site/jaegulchoo/). 
-I have done past internships with awesome collaborators at [Naver Clova AI](https://clova.ai/en/research/research-areas.html) and [Nokia Bell Labs Cambridge](https://social-dynamics.net/).
+I have done past internships with awesome people at [Naver Clova AI](https://clova.ai/en/research/research-areas.html) and [Nokia Bell Labs Cambridge](https://social-dynamics.net/).
+
+I enjoy sharing and discussing research ideas on CSS and NLP domains and am open to collaborative work. 
+Feel free to contact me via email if you found my work interesting or would like to collaborate in the future!
 
 Personal updates
 ======
