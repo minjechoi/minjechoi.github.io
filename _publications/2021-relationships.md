@@ -3,7 +3,7 @@ title: "More than meets the tie: Examining the Role of Interpersonal Relationshi
 collection: publications
 permalink: /publications/2021-relationships
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: June 2021
+date: 2021-06-11
 venue: 'forthcoming in ICWSM 2021'
 
 [comment]: <> (paperurl: 'http://academicpages.github.io/files/paper3.pdf')
