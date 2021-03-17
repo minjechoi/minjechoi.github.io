@@ -6,7 +6,7 @@ excerpt: 'Many researchers and practitioners use online health communities (OHCs
 date: 2020-04-11
 venue: 'Journal of Biomedical Informatics (JBI)'
 paperurl: 'https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5268468/'
-citation: 'Minje Choi, Luca Maria Aiello, Krisztián Zsolt Varga, and Daniele Quercia. 2020. Ten Social Dimensions of Conversations and Relationships. In Proceedings of The Web Conference 2020 (WWW '20). Association for Computing Machinery, New York, NY, USA, 1514–1525. DOI:https://doi.org/10.1145/3366423.3380224'
+citation: 'Minje Choi, Luca Maria Aiello, Krisztian Zsolt Varga, and Daniele Quercia. 2020. Ten Social Dimensions of Conversations and Relationships. In Proceedings of The Web Conference 2020 (WWW '20). Association for Computing Machinery, New York, NY, USA, 1514–1525. DOI:https://doi.org/10.1145/3366423.3380224'
 ---
 
 This paper is about the number 1. The number 2 is left for future work.
