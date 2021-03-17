@@ -21,6 +21,6 @@ Personal updates
 ======
 - (03.15.21) Our paper "More than meets the tie: Examining the Role of Interpersonal Relationships in Social Networks" has been accepted to [ICWSM '21](https://www.icwsm.org/2021/index.html)! 
 - (03.04.21) I will be the Graduate Student Instructor for the MADS course SIADS 655 Applied Natural Language Processing, taught by my advisor Prof. David Jurgens.
-- (02.26.21) I passed our department's field prelim milestone and now am officially a Ph.D candidate!
+- (02.26.21) I passed our department's field prelim milestone and now am officially a Ph.D candidate! You can view the final draft for my review on "Understanding Brand Reputation and Online Firestorms through Social Media" [here](http://academicpages.github.io/files/misc/Choi_prelim_final.pdf)
 - (02.04.21) I will be doing an internship this summer at [Visa Research](https://usa.visa.com/about-visa/visa-research.html)! Looking forward to doing interesting NLP research with Dr. Javid Ebrahimi and the rest of the team :)
 
