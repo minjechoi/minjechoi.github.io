@@ -11,8 +11,8 @@ citation: 'N/A'
 
 Abstract: Topics in conversations depend in part on the type of interpersonal relationship between speakers, such as friendship, kinship, or romance. Identifying these relationships can provide a richer description of how individuals communicate and reveal how relationships influence the way people share information. Using a dataset of more than 9 million dyads of Twitter users,we show how relationship types influence language use, topic diversity, communication frequencies and diurnal patterns of conversations. These differences can be used to predict the relationship between two users, with the best predictive model achieving a macro F-1 score of 0.70. We also demonstrate how relationship types influence communication dynamics through the task of predicting future retweets. By adding relationships as a feature, F-1 scores increase by 3.24%. The results of this study suggest relationship types have the potential to provide new insights into how communication and information diffusion occurs within social networks.
 
-[Preprint](http://academicpages.github.io/files/papers/icwsm-2021.pdf)
+[Preprint](http://minjechoi.github.io/files/papers/icwsm-2021.pdf)
 
-[Supporting material](http://academicpages.github.io/files/papers/icwsm-2021-supp.pdf)
+[Supporting material](http://minjechoi.github.io/files/papers/icwsm-2021-supp.pdf)
 
 Recommended citation: N/A
