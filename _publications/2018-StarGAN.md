@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2018-StarGAN
 excerpt: 'Existing approaches on image-to-image translation, while capable of producing high-quality translation images, were limited to one-on-one translations and also less robust on multiple domains. To address this limitation, we introduced StarGAN, a model that uses a simple yet effective approach, one-hot masking, and show through facial image translation tasks that our model is capable of performing multiple forms of image translations.'
 date: 2018-06-18
-venue: 'Conference on Computer Vision and Pattern Recognition (CVPR)'
+venue: 'IEEE/ CVF International Conference on Computer Vision and Pattern Recognition (CVPR)'
 paperurl: 'https://ieeexplore.ieee.org/document/8579014'
 citation: 'Y. Choi, M. Choi, M. Kim, J. Ha, S. Kim and J. Choo, "StarGAN: Unified Generative Adversarial Networks for Multi-domain Image-to-Image Translation," 2018 IEEE/CVF Conference on Computer Vision and Pattern Recognition, Salt Lake City, UT, USA, 2018, pp. 8789-8797, doi: 10.1109/CVPR.2018.00916.'
 ---
