@@ -5,7 +5,7 @@ permalink: /publications/2021-relationships
 excerpt: 'In this study, we collect 9.6M different types of social ties from Twitter, which we group into five categories: social, romance, family, organizational, and parasocial. Using these categories, we show that the interpersonal relationship type leads to notable differences in (1) word and linguistic patterns, (2) shared topic diversity, and (3) network proximity. Using these labels as training data, we train classification models using the interaction data between two users to show that relationship types can be inferred with high F-1 scores. Finally, we show that these features can be used for predicting future diffusion of information, as in predicting whether a future retweet will occur.'
 date: 2021-06-11
 venue: 'ICWSM 2021 (forthcoming)'
-paperurl: 'http://academicpages.github.io/files/papers/icwsm-2021.pdf'
+paperurl: 'forthcoming (refer to below for preprint)'
 citation: 'N/A'
 ---
 
