@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2022-relationships-shocks
 excerpt: 'In this study, we collect 9.6M different types of social ties from Twitter, which we group into five categories: social, romance, family, organizational, and parasocial. Using these categories, we show that the interpersonal relationship type leads to notable differences in (1) word and linguistic patterns, (2) shared topic diversity, and (3) network proximity. Using these labels as training data, we train classification models using the interaction data between two users to show that relationship types can be inferred with high F-1 scores. Finally, we show that these features can be used for predicting future diffusion of information, as in predicting whether a future retweet will occur.'
 date: 2022-07-15
-venue: 'ICWSM 2022'
+venue: 'ICWSM 2023'
 paperurl: 'TBA'
 citation: 'N/A'
 ---
