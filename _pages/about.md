@@ -19,6 +19,9 @@ Feel free to contact me via email if you found my work interesting or would like
 
 Personal updates
 ======
+- (07.15.22) Our latest work, ["Analyzing the Engagement of Social Relationships During Life Event Shocks in Social Media"](https://minjechoi.github.io/publications/2022-relationships-shocks), got accepted to ICWSM'23! Stay tuned for updates on preprints and code.
+- (04.17.22) I will be doing two internships in the following months! The first will be a return this summer to [Visa Research](https://usa.visa.com/about-visa/visa-research.html) in Palo Alto, CA, where I will be working on Transformer models. The next will be at [Snap Research](https://research.snap.com/team/category/computational-social-science.html) where I will be doing more stuff on computational social sciences. Excited about both projects!
+- ["Ten Social Dimensions of Conversations and Relationships"](https://minjechoi.github.io/publications/2020-WWW) at [IC2S2 '21](https://ic2s2-2021.ethz.ch/)! 
 - (05.14.21) I will be doing an oral presentation on my previous work ["Ten Social Dimensions of Conversations and Relationships"](https://minjechoi.github.io/publications/2020-WWW) at [IC2S2 '21](https://ic2s2-2021.ethz.ch/)! 
 - (03.15.21) Our paper ["More than Meets the Tie: Examining the Role of Interpersonal Relationships in Social Networks"](https://minjechoi.github.io/publications/2021-relationships) has been accepted to [ICWSM '21](https://www.icwsm.org/2021/index.html)! 
 - (03.04.21) I will be the Graduate Student Instructor for the MADS course SIADS 655 Applied Natural Language Processing, taught by my advisor Prof. David Jurgens.
