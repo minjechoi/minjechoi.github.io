@@ -6,7 +6,6 @@ excerpt: 'In this study, we collect 9.6M different types of social ties from Twi
 date: 2021-06-11
 venue: 'ICWSM 2021'
 paperurl: 'https://arxiv.org/abs/2105.06038'
-citation: 'N/A'
 ---
 
 Abstract: Topics in conversations depend in part on the type of interpersonal relationship between speakers, such as friendship, kinship, or romance. Identifying these relationships can provide a rich description of how individuals communicate and reveal how relationships influence the way people share information. Using a dataset of more than 9.6M dyads of Twitter users, we show how relationship types influence language use, topic diversity, communication frequencies, and diurnal patterns of conversations. These differences can be used to predict the relationship between two users, with the best predictive model achieving a macro F1 score of 0.70. We also demonstrate how relationship types influence communication dynamics through the task of predicting future retweets. Adding relationships as a feature to a strong baseline model increases the F1 and recall by 1% and 2%. The results of this study suggest relationship types have the potential to provide new insights into how communication and information diffusion occur in social networks.
@@ -14,5 +13,3 @@ Abstract: Topics in conversations depend in part on the type of interpersonal re
 [Download paper here](https://arxiv.org/abs/2105.06038)
 
 [Code and models used for the paper](https://github.com/minjechoi/relationships)
-
-Recommended citation: N/A
