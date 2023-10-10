@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2023-socket
 excerpt: ''
 date: 2023-05-23
-venue: 'N/A'
+venue: 'Accepted to EMNLP 2023'
 paperurl: 'https://arxiv.org/abs/2305.14938'
 ---
 
