@@ -83,10 +83,10 @@ author:
   name             : "Minje Choi"
   avatar           : "bio-photo-minje.jpg"
   bio              : "Postdoctoral Fellow at Georgia Tech"
-  location         : "Atlanta, Geoergia"
+  location         : "Atlanta, Georgia"
   employer         :
   pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  googlescholar    : "https://scholar.google.com/citations?user=crAyusoAAAAJ&hl"
+  googlescholar    : "https://scholar.google.com/citations?user=crAyusoAAAAJ"
   email            : "minje.choi@gatech.edu"
   researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
   uri              :
