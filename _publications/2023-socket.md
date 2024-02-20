@@ -4,7 +4,7 @@ collection: publications
 permalink: /publications/2023-socket
 excerpt: 'We curate a benchmark for NLP tasks on their ability to understand tasks requiring social knowledge and contextual appropriateness, which we name SocKET. We perform analyses on popular open-source LLMs and show that these tasks remain a challenge at its current state.'
 date: 2023-05-23
-venue: 'EMNLP 2023'
+venue: 'Empirical Methods in Natural Language Processing (EMNLP)'
 paperurl: 'https://aclanthology.org/2023.emnlp-main.699/'
 ---
 

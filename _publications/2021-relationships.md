@@ -2,7 +2,7 @@
 title: "More than Meets the Tie: Examining the Role of Interpersonal Relationships in Social Networks"
 collection: publications
 permalink: /publications/2021-relationships
-excerpt: 'In this study, we collect 9.6M different types of social ties from Twitter, which we group into five categories: social, romance, family, organizational, and parasocial. Using these categories, we show that the interpersonal relationship type leads to notable differences in (1) word and linguistic patterns, (2) shared topic diversity, and (3) network proximity. Using these labels as training data, we train classification models using the interaction data between two users to show that relationship types can be inferred with high F-1 scores. Finally, we show that these features can be used for predicting future diffusion of information, as in predicting whether a future retweet will occur.'
+excerpt: 'We analyzed over 9.6M dyads of Twitter users to explore how relationship types affect language use, topic diversity, communication frequencies, and diurnal conversation patterns. Our findings demonstrate that incorporating relationship types enhances predictive models for user relationships and future retweet behavior, indicating their potential to offer fresh insights into communication dynamics and information diffusion in social networks.'
 date: 2021-06-11
 venue: 'The International AAAI Conference on Web and Social Media (ICWSM)'
 paperurl: 'https://ojs.aaai.org/index.php/ICWSM/article/view/18045'
