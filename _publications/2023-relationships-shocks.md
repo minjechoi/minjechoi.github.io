@@ -12,4 +12,8 @@ Abstract: Individuals experiencing unexpected distressing events, shocks, often 
 
 [Download paper here](https://ojs.aaai.org/index.php/ICWSM/article/view/22134)
 
+## Code
 [Code and models used for the paper](https://github.com/minjechoi/relationships-shocks)
+
+## Recorded Talks and Slides
+- [Slides](https://docs.google.com/presentation/d/10FNzLVT4p_m_g-MFjm-7qzSAq4tCp5um/edit?usp=sharing&ouid=110455722560441196999&rtpof=true&sd=true)

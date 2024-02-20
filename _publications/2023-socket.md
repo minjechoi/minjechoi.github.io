@@ -12,6 +12,11 @@ Abstract: Large language models (LLMs) have been shown to perform well at a vari
 
 [Download paper here](https://aclanthology.org/2023.emnlp-main.699.pdf)
 
-[Code and models used for the paper](https://github.com/minjechoi/SOCKET)
+## Code
+- [Code and models used for the paper](https://github.com/minjechoi/SOCKET)
 
-[Hugging Face Datasets](https://huggingface.co/datasets/Blablablab/SOCKET)
+- [Hugging Face Datasets](https://huggingface.co/datasets/Blablablab/SOCKET)
+
+## Recorded Talks and Slides
+- [Talk - 6 minute version](https://drive.google.com/file/d/1pSZemHDGEQ_WbclEuCw0m9fqmFOzU3l4/view?usp=drive_link)
+- [Slides](https://docs.google.com/presentation/d/1DDAEpCkOSpJIP6WfBJTDSM197uTCA68K/edit?usp=sharing&ouid=110455722560441196999&rtpof=true&sd=true)
