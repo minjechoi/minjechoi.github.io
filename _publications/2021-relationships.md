@@ -12,4 +12,9 @@ Abstract: Topics in conversations depend in part on the type of interpersonal re
 
 [Download paper here](https://ojs.aaai.org/index.php/ICWSM/article/view/18045)
 
+## Code
 [Code and models used for the paper](https://github.com/minjechoi/relationships)
+
+## Recorded Talks and Slides
+- [Talk](https://drive.google.com/file/d/1be4CAPSdoSIgqNH-hz9lpTfec3EiC8cs/view?usp=sharing)
+- [Slides](https://docs.google.com/presentation/d/1EbbdoIuniexGGeW7Jf8XZFlq8zgvs9Pe/edit?usp=sharing&ouid=110455722560441196999&rtpof=true&sd=true)
