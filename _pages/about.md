@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi! I'm Minje (최민제) (pronounced "Min-je" as in "jet" or "jelly"), currently a postdoctoral fellow at the School of Interactive Computing in Georgia Tech, co-advised by professors [Munmun De Choudhury](http://www.munmund.net/) and [Srijan Kumar](https://faculty.cc.gatech.edu/~srijan/). I hold a Ph.D in Information from the [University of Michigan](https://www.si.umich.edu/) where I was co-advised by professors [David Jurgens](http://jurgens.people.si.umich.edu/) and [Daniel M. Romero](http://www.dromero.org/).
+Hi! I'm Minje (최민제) (pronounced "Min-je" as in "jet" or "jelly"), currently an applied scientist at Amazon. I hold a Ph.D in Information from the [University of Michigan](https://www.si.umich.edu/) where I was co-advised by professors [David Jurgens](http://jurgens.people.si.umich.edu/) and [Daniel M. Romero](http://www.dromero.org/).
 
 My research interests include (1) investigating the capabilities of large language models (LLMs) on tasks requiring social knowledge [[EMNLP'23]](https://aclanthology.org/2023.emnlp-main.699/)[[preprint]](https://arxiv.org/abs/2311.09718)[[preprint]](https://scholar.google.com/citations?view_op=view_citation&hl=en&user=crAyusoAAAAJ&sortby=pubdate&citation_for_view=crAyusoAAAAJ:LkGwnXOMwfcC), and (2) using NLP and causal inference methods to understand dynamics in large social networks based on social relationships or identities [[ICWSM'23]](https://ojs.aaai.org/index.php/ICWSM/article/view/22134)[[ICWSM'21]](https://ojs.aaai.org/index.php/ICWSM/article/view/18045)[[WWW'20]](https://dl.acm.org/doi/abs/10.1145/3366423.3380224).
 
