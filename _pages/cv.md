@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-1-page Resume: [[link]](https://drive.google.com/file/d/1FXYNfF0ysGZzFLtBWcFxIG0R19hcu1YS/view?usp=sharing)
+1-page Resume: [[link]](https://drive.google.com/file/d/11AtIUG2WaVlRydxKDOeQF6pikbeX_63q/view?usp=sharing)
 - Last update: Nov 2024
 
 Curriculum Vita [[link]](https://drive.google.com/file/d/1Af6rdxOmR9D2IDnsBvVLQyReQ6B9HKtP/view?usp=sharing)
