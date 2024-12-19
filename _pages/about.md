@@ -14,6 +14,3 @@ My research interests include (1) investigating the capabilities of large langua
 
 Before my Ph.D, I did my undergrad and masters in computer science at Korea University where I was advised by professor [Jaegul Choo](https://sites.google.com/site/jaegulchoo/). 
 I have done past internships with awesome people at [Naver Clova AI](https://clova.ai/en/research/research-areas.html), [Nokia Bell Labs Cambridge](https://social-dynamics.net/), [Visa Research](https://usa.visa.com/about-visa/visa-research.html) [Snap Research](https://research.snap.com/team/category/computational-social-science.html).
-
-I enjoy sharing and discussing research ideas on CSS and NLP domains and am open to collaborative work. 
-Feel free to contact me via email if you found my work interesting or would like to collaborate in the future!
